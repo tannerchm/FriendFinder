@@ -1,0 +1,100 @@
+
+
+json = 
+{
+  "name":"Ian",
+  "photo":"https://cdn.movieweb.com/img.news.tops/NEhjWYTdQJr1lk_1_b/Jurassic-World-Fallen-Kingdom-Jeff-Goldblum-Ian-Malcolm.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Grant",
+  "photo":"https://vignette.wikia.nocookie.net/jurassicpark/images/a/a1/Alangranteth.jpg/revision/latest?cb=20110825201052",
+  "scores":[
+      2,
+      3,
+      1,
+      3,
+      4,
+      5,
+      1,
+      4,
+      3,
+      5
+    ]
+},
+{
+    "name":"Elliot",
+  "photo":"https://vignette.wikia.nocookie.net/ettheextraterrestrial/images/8/88/Elliott.jpg/revision/latest?cb=20120415200010",
+  "scores":[
+      1,
+      2,
+      5,
+      5,
+      4,
+      5,
+      3,
+      1,
+      5,
+      2
+    ]
+},
+{
+"name":"Chief Brody",
+  "photo":"https://vignette.wikia.nocookie.net/jaws/images/3/39/Brody.jpg/revision/latest?cb=20101225020509",
+  "scores":[
+      3,
+      4,
+      2,
+      2,
+      3,
+      4,
+      1,
+      3,
+      2,
+      4
+    ]
+},
+{
+    "name":"Ellie",
+    "photo":"https://www.gogocosplay.com/wp-content/uploads/2017/04/ellie-sattler-jp-costume-1.jpg",
+    "scores":[
+        2,
+        4,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        1,
+        3
+      ]
+  },
+  {
+    "name":"Ellen",
+    "photo":"https://cnet1.cbsistatic.com/img/1x2fyK_vuxCZZtiFkIDv2NM8tBw=/570x0/2016/12/08/e4eefbdf-7547-46b2-a1d9-439e87780fbc/alienscat3.jpg",
+    "scores":[
+        2,
+        3,
+        1,
+        1,
+        2,
+        3,
+        5,
+        2,
+        1,
+        3
+      ]
+  }
+  module.exports=friends;
